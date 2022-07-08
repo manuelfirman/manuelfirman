@@ -1,5 +1,6 @@
-<h1 align="center">Hello👋 My name is Manuel, im from Argentina.</h1>
-<h3 align="center">A passionate trainee developer from Argentina.</h3>
+<h1 align="center">WELCOME!</h1>
+
+- Hello👋 My name is Manuel, im from Argentina.
 
 - 🌱 I’m currently studing in **UTN FRGP**
 
