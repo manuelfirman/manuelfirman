@@ -1,11 +1,10 @@
 <h1 align="center">Hello👋 My name is Manuel, im from Argentina.</h1>
-<h3 align="center">A passionate backend developer</h3>
 
-<h3 align="left">🌱 I’m currently studing **UTN FRGP🏢**</h3>
+<h3 align="left">🌱 I’m currently studing UTN FRGP🏢</h3>
 
-<h3 align="left">📫 How to reach me **manuel.firman@gmail.com**</h3>
+<h3 align="left">📫 How to reach me: manuel.firman@gmail.com</h3>
 
-<hr>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -38,7 +37,7 @@
 	</a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </p>
 
-<hr>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
